@@ -1,5 +1,8 @@
 # 📊 Power BI – Superstore Sales Dashboard
 
+![Power BI Dashboard](https://github.com/aadarshjaiswalvns/PowerBI-Superstore-Sales-Dashbaord/blob/main/Sales%20Dashboard%20image.png)
+
+## 📊 Project Overview
 Analyzed a retail sales dataset of over 50,000 records to uncover revenue trends, top-performing products, and regional performance.  
 Created an interactive dashboard using **Power BI**, **DAX**, and slicers for real-time executive-level reporting.
 
