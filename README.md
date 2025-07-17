@@ -64,7 +64,7 @@ Sample superstore sales dataset containing the following fields:
 ## 🙋‍♂️ Author
 
 **Aadarsh Jaiswal**  
-Aspiring Data Analyst | Excel & Power BI Enthusiast  
+Data Analyst | Excel & Power BI Enthusiast  
 📧 [aadarshjaiswal.vns@gmail.com](mailto:aadarshjaiswal.vns@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/aadarsh-jaiswal)  
 💻 [GitHub](https://github.com/aadarshjaiswalvns)
