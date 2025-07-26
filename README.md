@@ -3,61 +3,71 @@
 ![Power BI Dashboard](https://github.com/aadarshjaiswalvns/PowerBI-Superstore-Sales-Dashbaord/blob/main/Sales%20Dashboard%20image.png)
 
 ## 📊 Project Overview
-Analyzed a retail sales dataset of over 50,000 records to uncover revenue trends, top-performing products, and regional performance.  
-Created an interactive dashboard using **Power BI**, **DAX**, and slicers for real-time executive-level reporting.
 
----
-
-## 📌 Project Objective
-
-To create an interactive dashboard that visualizes sales performance across different regions, products, and time periods—empowering business stakeholders to make data-driven decisions.
-
----
-
-## 🧰 Tools & Technologies
-
-- **Power BI / Microsoft Excel**
-- **DAX (Data Analysis Expressions)**
-- **Pivot Tables**
-- **Charts:** Bar, Line, Pie
-- **Slicers & Filters**
-
----
-
-## 📂 Dataset
-
-Sample superstore sales dataset containing the following fields:
-- Order Date
-- Region
-- Product Category
-- Sales
-- Profit
-- Quantity
-
----
-
-## 📊 Key Dashboard Features
-
-- 💰 **Total Sales and Profit Overview**
-- 🌍 **Sales by Region Visualization**
-- 📈 **Monthly Sales Trends**
-- 🏆 **Top Products by Revenue**
-- 🎛️ **Interactive Filters by Region and Category**
-
----
-
-## ✅ Results
-
-- Clear visual summary of business performance
-- Easy identification of top-performing regions and products
-- Monthly revenue and profit insights for strategic planning
+This interactive **Sales Dashboard** was created using Microsoft Power BI to visualize and analyze sales performance from a Superstore dataset. It provides valuable insights into total sales, profit, customer count, product category trends, payment and shipping preferences, and geographical distribution of sales.
 
 ---
 
 ## 📁 Files Included
 
-- `Sales Dashboard.pbix` – Fully interactive Power BI dashboard  
-- `README.md` – Project documentation  
+- `Sales Dashboard.pbix` – Main Power BI dashboard file.
+- `Superstore_Sales_Dataset.xlsx` – Raw dataset used for this dashboard.
+- `Sales Dashboard image.png` – Image preview of the final dashboard.
+
+---
+
+## 🔍 Dashboard Highlights
+
+- **Total Customers**: 448  
+- **Total Sales**: $112.54K  
+- **Total Profit**: $16.91K  
+- **Time Filter**: Sales data is segmented by year (2019, 2020).
+
+### 📌 Visual Insights
+
+- **Sales by Segment**: Distribution across Consumer, Corporate, and Home Office.
+- **Sales by Region**: West leads with the highest sales.
+- **Monthly Sales Trend**: Line chart showing monthly sales and sub-category activity.
+- **Sales by Category**:
+  - Office Supplies: $44K
+  - Furniture: $40K
+  - Technology: $28K
+- **Sales by Payment Mode**: Cards dominate, followed by Online and COD.
+- **Sales by Ship Mode**: Standard Class is most used.
+- **Sales by State**: Highlights sales performance across U.S. states.
+
+---
+
+## 🔧 Tools Used
+
+- **Power BI Desktop**
+- **Excel** (for initial data preparation)
+
+---
+
+## 📌 Slicers & Filters
+
+- **Category/Sub-Category**
+- **Payment Mode**
+- **Month**
+- **Year**
+
+These filters allow users to drill down and explore specific sales patterns and dimensions.
+
+---
+
+## 🎯 Objective
+
+The goal of this dashboard is to empower business stakeholders with a quick, comprehensive view of key sales metrics and performance indicators, helping them make data-driven decisions efficiently.
+
+---
+
+## 📥 How to Use
+
+1. Download or clone the repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Explore and interact with the visualizations using the slicers and filters.
+4. (Optional) Update the data source if needed using `Superstore_Sales_Dataset.xlsx`.
 
 ---
 
