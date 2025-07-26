@@ -56,7 +56,7 @@ Sample superstore sales dataset containing the following fields:
 
 ## 📁 Files Included
 
-- `Superstore Sales Dashboard2.pbix` – Fully interactive Power BI dashboard  
+- `Sales Dashboard.pbix` – Fully interactive Power BI dashboard  
 - `README.md` – Project documentation  
 
 ---
