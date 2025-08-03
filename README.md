@@ -1,6 +1,6 @@
 # 📊 Power BI – Superstore Sales Dashboard
 
-![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Starbucks_Sales_Dashboard/blob/main/Dashboard_preview.png)
+![Power BI Dashboard](https://github.com/aadarshjaiswalvns/PowerBI-Superstore-Sales-Dashbaord/blob/main/Sales%20Dashboard%20image.png)
 
 ## 📊 Project Overview
 
