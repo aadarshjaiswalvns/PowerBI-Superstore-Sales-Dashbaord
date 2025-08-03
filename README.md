@@ -1,6 +1,6 @@
 # 📊 Power BI – Superstore Sales Dashboard
 
-![Power BI Dashboard](https://github.com/aadarshjaiswalvns/PowerBI-Superstore-Sales-Dashbaord/blob/main/Sales%20Dashboard%20image.png)
+![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Starbucks_Sales_Dashboard/blob/main/Dashboard_preview.png)
 
 ## 📊 Project Overview
 
@@ -11,7 +11,7 @@ This interactive **Sales Dashboard** was created using Microsoft Power BI to vis
 ## 📁 Files Included
 
 - `Sales Dashboard.pbix` – Main Power BI dashboard file.
-- `Superstore_Sales_Dataset.xlsx` – Raw dataset used for this dashboard.
+- `Superstore_Sales_Datase.xlsx` – Raw dataset used for this dashboard.
 - `Sales Dashboard image.png` – Image preview of the final dashboard.
 
 ---
