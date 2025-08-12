@@ -62,15 +62,6 @@ The goal of this dashboard is to empower business stakeholders with a quick, com
 
 ---
 
-## 📥 How to Use
-
-1. Download or clone the repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Explore and interact with the visualizations using the slicers and filters.
-4. (Optional) Update the data source if needed using `Superstore_Sales_Dataset.xlsx`.
-
----
-
 ## 🙋‍♂️ Author
 
 **Aadarsh Jaiswal**  
